@@ -14,7 +14,7 @@ Seminars: 1 session / week, 3 hours / session
 
 ## Analytical Frameworks
 
-This course was team-taught by three instructors: {{% resource_link "2fe525e1-63b7-4915-8cc2-4908983552b0" "Chris Bobel" %}} from the University of Massachusetts Boston; {{% resource_link "d57261f3-ab16-4a65-89d7-42c0183cc2f2" "Silvia Dominguez" %}} from Northeastern University; and {{% resource_link "7d351096-68bf-466c-984e-b0b3734663d1" "Norma Swenson" %}} from the Harvard School of Public Health. Each instructor presented an analytical framework to the class, with the hope that the by the end of the semester, students would be able to synthesize these analytic tools in their own work. The three analytical frameworks were, respectively:
+This course was team-taught by three instructors: [Chris Bobel](http://www.faculty.umb.edu/chris_bobel/) from the University of Massachusetts Boston; [Silvia Dominguez](http://www.northeastern.edu/cssh/faculty/silvia-dominguez) from Northeastern University; and [Norma Swenson](http://www.ourbodiesourselves.org/history/obos-founders/norma-swenson/) from the Harvard School of Public Health. Each instructor presented an analytical framework to the class, with the hope that the by the end of the semester, students would be able to synthesize these analytic tools in their own work. The three analytical frameworks were, respectively:
 
 #### *Feminism, feminist theory, and inter-sectionality*
 
@@ -32,7 +32,7 @@ Throughout this course, the underlying assumption will be that health is a human
 
 ## Prerequisites
 
-Students must apply and be accepted to the {{% resource_link "1efab019-2886-4759-8c1e-efe92373cb0a" "Graduate Consortium in Women's Studies" %}}.
+Students must apply and be accepted to the [Graduate Consortium in Women's Studies](http://web.mit.edu/gcws/courses/how-to-apply.html).
 
 ## Assessments
 
