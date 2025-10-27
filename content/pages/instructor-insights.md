@@ -3,8 +3,6 @@ content_type: page
 description: This section provides insights and information about the course from
   the instructors.
 draft: false
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -13,11 +11,11 @@ uid: 45fb86f8-71a4-d871-ca5e-ad8fc8a3123b
 ---
 ## Course Overview
 
-This page focuses on the course _WGS.645 Gender, Health and Marginalization Through a Critical Feminist Lens_ as it was taught by [Prof. Chris Bobel](http://www.faculty.umb.edu/chris_bobel/), [Prof. Silvia Dominguez](http://www.northeastern.edu/cssh/faculty/silvia-dominguez), and [Lecturer Norma Swenson](http://www.ourbodiesourselves.org/history/obos-founders/norma-swenson/) in Fall 2014.
+This page focuses on the course _WGS.645 Gender, Health and Marginalization Through a Critical Feminist Lens_ as it was taught by {{% resource_link "72747f1c-22c1-4e68-85e2-4d18ae80a8f0" "Prof. Chris Bobel" %}}, {{% resource_link "70538e3a-2ed1-4737-afb4-497b706e3dcf" "Prof. Silvia Dominguez" %}}, and {{% resource_link "9edce77c-7a13-4968-8ef5-350429ed5eb6" "Lecturer Norma Swenson" %}} in Fall 2014.
 
 This course used a feminist interdisciplinary lens to look critically at how practices like privatization, shrinking public “safety nets,” deregulation, and the commodification of health services intersect inevitably with gender, race, and class, for both men and women.
 
-This course was part of the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/), which brings together scholars and teachers from nine Boston-area institutions to advance interdisciplinary Women’s Studies scholarship.
+This course was part of the {{% resource_link "156e442f-f585-4cc6-a2c8-79ade54d0395" "Graduate Consortium in Women’s Studies" %}}, which brings together scholars and teachers from nine Boston-area institutions to advance interdisciplinary Women’s Studies scholarship.
 
 ## Course Outcomes
 
@@ -95,7 +93,7 @@ My advice for educators embarking on co-teaching is to be as transparent as poss
 
 ### Prerequisites
 
-- Students must apply to the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/).
+- Students must apply to the {{% resource_link "156e442f-f585-4cc6-a2c8-79ade54d0395" "Graduate Consortium in Women’s Studies" %}}.
 - Doctoral students receive priority; master’s students and advanced undergraduates may be admitted if space permits.
 
 ### Requirements Satisfied
