@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of course topics, activities, and
   assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -48,11 +46,11 @@ Analytical frameworks:
 3.  Feminism, feminist theory, and inter-sectionality
 
 Videos shown in class:  
-Klein, Naomi. "[Naomi Klein on Global Neoliberalism](https://www.youtube.com/watch?v=sKTmwu3ynOY)." April 23, 2012. YouTube. Accessed May 13, 2015. 
+Klein, Naomi. "{{% resource_link "af3f7269-0fd2-474d-84c4-976111af9e4d" "Naomi Klein on Global Neoliberalism" %}}." April 23, 2012. YouTube. Accessed May 13, 2015. 
 
-Eigenberger, Martin. "[Neoliberalism as a Water Balloon](https://www.youtube.com/watch?v=XIUWZnnHz2g)." October 11, 2011. YouTube. Accessed May 13, 2015. 
+Eigenberger, Martin. "{{% resource_link "be63347b-5666-4ed3-8be4-6dace95f890a" "Neoliberalism as a Water Balloon" %}}." October 11, 2011. YouTube. Accessed May 13, 2015. 
 
-Bunch, Charlotte. "[Women's Rights Are Human Rights](https://www.ohchr.org/documents/events/whrd/womenrightsarehr.pdf)." Makers.
+Bunch, Charlotte. "{{% resource_link "bd750173-631a-41bd-b6d9-8cb0094442fc" "Women's Rights Are Human Rights" %}}." Makers.
 
 
 {{< tdclose >}}
@@ -97,7 +95,7 @@ Analytical framework: Feminism, femnist theory, and inter-sectionality
 Shame, silence and secrecy: The case of menstrual health
 
 Film shown in class:  
-Chesler, Giovanna. [_Period: The End of Menstruation?_](http://www.periodthemovie.com/) Cinema Guild, 2006.
+Chesler, Giovanna. {{% resource_link "47803ebc-966f-4d28-ae39-c2aaaf6c6b2b" "_Period: The End of Menstruation?_" %}} Cinema Guild, 2006.
 
 
 {{< tdclose >}}
@@ -116,7 +114,7 @@ Chesler, Giovanna. [_Period: The End of Menstruation?_](http://www.periodthemovi
 Corporate obstetrics and care-less maternity; or how childbirth went to the industrial north
 
 Film shown in class (clips):  
-Biasucchi, Cara. [_Born in Brazil (Nascendo no Brasil)_](https://www.twn.org/catalog/pages/responsive/cpage.aspx?rec=1171&card=price). Cara Mia Media, 2002.
+Biasucchi, Cara. {{% resource_link "ffacc7e1-243a-4f03-84ac-7bb0172419d2" "_Born in Brazil (Nascendo no Brasil)_" %}}. Cara Mia Media, 2002.
 
 
 {{< tdclose >}}
@@ -134,7 +132,7 @@ Biasucchi, Cara. [_Born in Brazil (Nascendo no Brasil)_](https://www.twn.org/cat
 
 Reproductive justice and the abortion wars: The color of resistance
 
-Invited Guest Speaker: [Loretta Ross](http://www.lorettaross.com/Biography.html), Founder of SisterSong, Women of Color for Reproductive Justice, Activist in Residence, Smith College.
+Invited Guest Speaker: {{% resource_link "fb242d46-bd1a-4d4c-b0ee-ea3513068f90" "Loretta Ross" %}}, Founder of SisterSong, Women of Color for Reproductive Justice, Activist in Residence, Smith College.
 
 Film shown in class (clips / trailer):  
 Reproductive Justice Project. Sophia Smith Production. Smith College Library, 2014.
@@ -186,10 +184,10 @@ Student presentations of Op-Eds
 
 When bodies don't fit: The case of intersex
 
-Guest speaker: [Esther Morris Leidolf](http://www.ourbodiesourselves.org/about/contributors/esther-morris-leidolf/), Intersex rights activist
+Guest speaker: {{% resource_link "9bf9ac92-a485-4e05-b20d-7d3146598b52" "Esther Morris Leidolf" %}}, Intersex rights activist
 
 Film shown in class:  
-Lahood, Grant. [_Intersexion_](http://www.intersexionfilm.com/). Ponsonby Productions. 2012.
+Lahood, Grant. {{% resource_link "f47ffdcf-f609-4dca-9658-364179547432" "_Intersexion_" %}}. Ponsonby Productions. 2012.
 
 
 {{< tdclose >}}
@@ -208,7 +206,7 @@ Lahood, Grant. [_Intersexion_](http://www.intersexionfilm.com/). Ponsonby Produc
 Violence against women: The case of harassment
 
 Film shown in class:  
-Mock, Freida. [_Anita: Speaking Truth to Power_](http://firstrunfeatures.com/anita.html). Phase4Films, 2013.
+Mock, Freida. {{% resource_link "6e07174c-037e-4ff3-a48f-00c293b653e1" "_Anita: Speaking Truth to Power_" %}}. Phase4Films, 2013.
 
 
 {{< tdclose >}}
@@ -226,7 +224,7 @@ Mock, Freida. [_Anita: Speaking Truth to Power_](http://firstrunfeatures.com/ani
 
 Marginalization gender and violence
 
-Guest speaker: [James Gilligan](http://en.wikipedia.org/wiki/James_Gilligan), MD, Clinical Professor of Psychiatry in the School of Medicine, Adjunct Professor in the School of Law, and Collegiate Professor in the School of Arts and Science at New York University.
+Guest speaker: {{% resource_link "e349b45d-16d6-419a-aa61-4f180597fbea" "James Gilligan" %}}, MD, Clinical Professor of Psychiatry in the School of Medicine, Adjunct Professor in the School of Law, and Collegiate Professor in the School of Arts and Science at New York University.
 
 
 {{< tdclose >}}
@@ -247,7 +245,7 @@ Bottom lines over better lives? The case of big pharma's role in shaping mental 
 Guest speaker: Eric Brown, Biochemical Engineer
 
 Film shown in class:  
-Ridberg, Ronit. [_Big Bucks, Big Pharma: Marketing Disease and Pushing Drugs_](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=224). Media Education Foundation, 2006.
+Ridberg, Ronit. {{% resource_link "9cd3c92c-5353-4c49-8ed7-efbb3f30e933" "_Big Bucks, Big Pharma: Marketing Disease and Pushing Drugs_" %}}. Media Education Foundation, 2006.
 
 
 {{< tdclose >}}

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides details on the course assignments and expectations
   for class participation and engagement.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -39,7 +37,7 @@ Your Op-Ed will address the topic you've selected for your Research Paper (and A
 
 We encourage you to submit your Op-Ed for publication.
 
-Assignment Resources are drawn from [The Op-Ed Project](http://www.theopedproject.org/). Please review the following documents located there before you begin your Op-Ed.
+Assignment Resources are drawn from {{% resource_link "742a5c97-d641-4a2a-89f9-b06fda885f08" "The Op-Ed Project" %}}. Please review the following documents located there before you begin your Op-Ed.
 
 *   Submission info, Top Outlets
 *   Questions for Op-Ed Writers

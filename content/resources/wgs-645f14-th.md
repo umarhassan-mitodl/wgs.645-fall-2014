@@ -6,12 +6,10 @@ description: 'Thumbnail of a photograph of women staging a pro-choice counter-pr
 file: /courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/10c6a9d33b0670e61e30291f0525a88c_wgs-645f14-th.jpg
 file_size: 12171
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: 'Women stage a pro-choice counter-protest in opposition to a group of students
     that gathered to protest women''s reproductive freedom in Ottawa. (Image courtesy
-    of [Jenn Farr](https://www.flickr.com/photos/jennfarr/4532487929/sizes/l/) on
+    of {{% resource_link "8a96a25d-ee44-4117-b2d2-a3df4a4b4539" "Jenn Farr" %}} on
     Flickr. License: CC NC-BY-SA.)'
   credit: 'Image courtesy of Jenn Farr on Flickr. License: CC NC-BY-SA.'
   image-alt: A woman shouts through a megaphone while holding a banner that says "Women's
